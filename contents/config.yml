@@ -1,22 +1,22 @@
-title: Tianzhi Xiang's Homepage
+title: Tianzhi Xiang | Mechanics & Data Science
 page-top-title: Tianzhi Xiang
-top-section-bg-text: Data Science
+top-section-bg-text: Mechanics & Data Science
 backgrounds:
   - static/assets/background/background_0.jpeg
   - static/assets/background/background_1.png
 background-interval-ms: 7000
-background-overlay: 0.52
-copyright-text: '&copy; Tianzhi Xiang 2025-2026. All Rights Reserved.'
+background-overlay: 0.48
+copyright-text: '&copy; Tianzhi Xiang 2026. All Rights Reserved.'
 github-link:
-  text: Github
+  text: GitHub
   href: https://github.com/RichardXTZ
-# license-link:
-#   text: License
-#   href: https://github.com/senli1073/senli1073.github.io/blob/main/LICENSE
+license-link:
+  text: License
+  href: https://github.com/RichardXTZ/richardxtz.github.io/blob/main/LICENSE
 sections:
   - id: home
     nav: HOME
-    title: Tianzhi Xiang&ensp;|&ensp;向天郅
+    title: Tianzhi Xiang | 向天郅
     href: '#page-top' # Default to '#<id>' if not specified
   - id: publications
     nav: PUBLICATIONS

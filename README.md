@@ -1,11 +1,14 @@
+# Tianzhi Xiang's Homepage
 
->  # **NOTE:** This repository is NOT a template.
+Personal academic homepage for Tianzhi Xiang, hosted with GitHub Pages.
 
+## Structure
 
-## Want to build your own?
-Please use the open-source template available here: **[senli1073/academic-homepage-template](https://github.com/senli1073/academic-homepage-template)**. It includes documentation and is ready for you to customize.
-
+- `index.html` loads the static page shell.
+- `contents/config.yml` controls titles, navigation, backgrounds, and footer links.
+- `contents/*.md` stores the editable page sections.
+- `static/css/main.css` contains site-specific styling on top of Bootstrap.
 
 ## License
 
-Copyright Sen Li, 2023-2026. Licensed under an MIT license.
+Licensed under the MIT license.
