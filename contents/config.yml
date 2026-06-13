@@ -1,6 +1,6 @@
-title: Tianzhi Xiang | Mechanics & Data Science
+title: Tianzhi Xiang | Mechanics
 page-top-title: Tianzhi Xiang
-top-section-bg-text: Mechanics & Data Science
+top-section-bg-text: Mechanics
 backgrounds:
   - static/assets/background/background_0.jpeg
   - static/assets/background/background_1.png
@@ -15,14 +15,21 @@ license-link:
   href: https://github.com/RichardXTZ/richardxtz.github.io/blob/main/LICENSE
 sections:
   - id: home
-    nav: HOME
+    nav: ABOUT
     title: Tianzhi Xiang | 向天郅
-    href: '#page-top' # Default to '#<id>' if not specified
+  - id: research
+    nav: RESEARCH
+    title: RESEARCH EXPERIENCE
+    icon: bi-lightbulb-fill
   - id: publications
-    nav: PUBLICATIONS
-    title: PUBLICATIONS
+    nav: OUTPUTS
+    title: RESEARCH OUTPUTS
     icon: bi-file-text-fill
   - id: awards
-    nav: AWARDS
-    title: AWARDS
+    nav: HONORS
+    title: HONORS AND AWARDS
     icon: bi-award-fill
+  - id: skills
+    nav: SKILLS
+    title: SKILLS
+    icon: bi-tools

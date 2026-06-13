@@ -79,14 +79,16 @@ button:focus-visible {
 #mainNav .navbar-toggler {
     display: inline-flex;
     align-items: center;
-    gap: 0.35rem;
+    justify-content: center;
+    width: 2.55rem;
+    height: 2.45rem;
     border: 1px solid var(--line);
     border-radius: 6px;
     color: var(--ink);
-    font-size: 0.82rem;
+    font-size: 1.2rem;
     font-weight: 700;
     letter-spacing: 0;
-    padding: 0.55rem 0.75rem;
+    padding: 0;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
@@ -125,6 +127,18 @@ button:focus-visible {
     width: 100%;
 }
 
+.hero-layout {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 3rem;
+}
+
+.hero-copy {
+    min-width: 0;
+    max-width: 620px;
+}
+
 .hero-kicker {
     color: rgba(255, 255, 255, 0.82);
     font-size: 0.95rem;
@@ -135,10 +149,19 @@ button:focus-visible {
 }
 
 .hero-title {
-    font-size: 3.2rem;
+    font-size: 3.55rem;
     letter-spacing: 0;
     max-width: 12ch;
     text-shadow: 0 2px 22px rgba(0, 0, 0, 0.34);
+}
+
+.hero-subtitle {
+    color: rgba(255, 255, 255, 0.84);
+    font-size: 1.05rem;
+    font-weight: 600;
+    line-height: 1.55;
+    margin: 1rem 0 0;
+    max-width: 34rem;
 }
 
 .top-section-bg {
@@ -177,7 +200,7 @@ button:focus-visible {
 }
 
 #sections section:first-child {
-    padding-top: 6rem;
+    padding-top: 4.4rem;
 }
 
 section header h2 {
@@ -302,17 +325,15 @@ section .main-body li::before {
 
 #avatar {
     position: relative;
-    display: flex;
-    justify-content: flex-end;
-    height: 0;
-    top: -76px;
-    max-width: 55em;
-    margin: 0 1.5rem 0 auto;
-    z-index: 9000;
+    display: block;
+    flex: 0 0 auto;
+    height: auto;
+    margin: 0;
+    z-index: 3;
 }
 
 #avatar img {
-    width: 172px;
+    width: 188px;
     height: auto;
     border: 4px solid rgba(255, 255, 255, 0.92);
     border-radius: 8px;
@@ -335,18 +356,17 @@ footer a:focus {
 }
 
 @media screen and (max-width: 991px) {
+    .hero-layout {
+        gap: 2rem;
+    }
+
     .hero-title {
         font-size: 2.55rem;
         max-width: 13ch;
     }
 
-    #avatar {
-        margin-right: 0;
-        top: -64px;
-    }
-
     #avatar img {
-        width: 148px;
+        width: 152px;
     }
 }
 
@@ -366,26 +386,35 @@ footer a:focus {
         padding-bottom: 5.5rem;
     }
 
+    .hero-layout {
+        gap: 1.1rem;
+    }
+
+    .hero-copy {
+        max-width: 12rem;
+    }
+
     .hero-kicker {
         font-size: 0.84rem;
+        margin-bottom: 0.55rem;
     }
 
     .hero-title {
         font-size: 2.15rem;
     }
 
-    #avatar {
-        justify-content: flex-start;
-        top: -46px;
+    .hero-subtitle {
+        font-size: 0.9rem;
+        margin-top: 0.7rem;
     }
 
     #avatar img {
-        width: 118px;
+        width: 110px;
         border-width: 3px;
     }
 
     #sections section:first-child {
-        padding-top: 5rem;
+        padding-top: 3.25rem;
     }
 
     #sections section {

@@ -1,1 +1,3 @@
-Selected honors and awards will be updated here.
+- Honor Graduate of Tianjin University, Jun. 2024.
+- Merit Student Award, Dec. 2023.
+- Outstanding Student Leader Award, Sep. 2021.

@@ -4,7 +4,9 @@
   <a href="Resume.pdf"><i class="bi bi-file-earmark-person"></i>CV</a>
 </div>
 
-I am a M.E. candidate in Mechanics at the School of Mechanical Engineering, Tianjin University. My work focuses on acoustic metasurfaces, wave transmission, solid mechanics, and acoustic-elastic coupling.
+I am a M.S. candidate in Mechanics at the School of Mechanical Engineering, Tianjin University. My research focuses on acoustic metasurfaces, wave transmission, solid mechanics, and acoustic-elastic coupling.
+
+My current work explores metasurface-enabled vibro-acoustic coupling across air-solid interfaces, with an emphasis on non-contact elastic-wave excitation, broadband ultrasonic inspection, and high-efficiency sound transmission through solid barriers.
 
 #### Contact
 
@@ -13,8 +15,9 @@ I am a M.E. candidate in Mechanics at the School of Mechanical Engineering, Tian
 
 #### Education
 
-- M.E. candidate, Mechanics, Tianjin University, 2024-present.
-- B.E., Engineering Mechanics, Tianjin University, 2020-2024.
+- M.S. Candidate in Mechanics, Tianjin University, Sep. 2024-present. Expected Jun. 2027.
+- CSC-funded Visiting M.S. Candidate, IMDEA Materials Institute, expected Jul. 2026-Nov. 2026. Host supervisor: Prof. Johan Christensen.
+- B.S. in Engineering Mechanics, Tianjin University, Sep. 2020-Jun. 2024.
 
 #### Research Interests
 
