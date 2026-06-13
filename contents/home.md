@@ -1,8 +1,8 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![RichardXTZ](https://img.shields.io/badge/RichardXTZ-github-blue?logo=github)](https://github.com/RichardXTZ)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+He is currently a M.S. Candidate in the  School of Mechanical Engineering at Tianjin University.
 
 #### Contact
 
@@ -13,5 +13,5 @@ M.E., Mechanics, CTianjin University, 2024—present.\
 B.E., Engineering Mechanics, Tianjin University, 2020-2024.
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+Acoustic Metasurfaces, Wave Transmission, Solid Mechanics, Acoustic-elastic Coupling
 
