@@ -6,7 +6,7 @@ He is currently a M.S. Candidate in the  School of Mechanical Engineering at Tia
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: xiangtz[at]tju.edu.cn
 
 #### Education
 M.E., Mechanics, CTianjin University, 2024—present.\
