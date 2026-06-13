@@ -1,5 +1,5 @@
 title: Tianzhi Xiang's Homepage
-page-top-title: Sen Li
+page-top-title: Tianzhi Xiang
 top-section-bg-text: Data Science
 backgrounds:
   - static/assets/background/background_0.jpeg
@@ -9,14 +9,14 @@ background-overlay: 0.52
 copyright-text: '&copy; Sen Li 2023-2026. All Rights Reserved.'
 github-link:
   text: Github
-  href: https://github.com/senli1073
-license-link:
-  text: License
-  href: https://github.com/senli1073/senli1073.github.io/blob/main/LICENSE
+  href: https://github.com/RichardXTZ
+# license-link:
+#   text: License
+#   href: https://github.com/senli1073/senli1073.github.io/blob/main/LICENSE
 sections:
   - id: home
     nav: HOME
-    title: Sen Li&ensp;|&ensp;李森
+    title: Tianzhi Xiang&ensp;|&ensp;向天郅
     href: '#page-top' # Default to '#<id>' if not specified
   - id: publications
     nav: PUBLICATIONS
