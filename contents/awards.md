@@ -1,3 +1,4 @@
+- First-Class Academic Scholarship for Graduate Students, Sep. 2024.
 - Honor Graduate of Tianjin University, Jun. 2024.
 - Merit Student Award, Dec. 2023.
 - Outstanding Student Leader Award, Sep. 2021.
